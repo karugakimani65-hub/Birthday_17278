@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Birthday</string>
+    <string name="instruction_enter_birthday">Enter your birthday (MM/DD):</string>
+    <string name="hint_date_format">MM/DD</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="happy_birthday">Happy Birthday!</string>
+    <string name="days_until_birthday">%1$d days until your birthday!</string>
+    <string name="error_invalid_date">Please enter a valid date (MM/DD).</string>
+</resources>
